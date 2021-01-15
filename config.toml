@@ -1,0 +1,4 @@
+baseURL = "https://holesheetmusicbroo.vercel.app"
+languageCode = "en-us"
+title = "Piano Sheet Music Hole"
+theme = "tale-hugo-master"
